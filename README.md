@@ -1,1 +1,1 @@
-Python Introduction - All seminars
+Домашнее задание к семинару 1

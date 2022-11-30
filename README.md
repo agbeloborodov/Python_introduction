@@ -1,1 +1,1 @@
-Python Introduction - All seminars
+Python Introduction - seminar 3
